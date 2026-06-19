@@ -270,5 +270,5 @@ This project demonstrates:
 
 ## Positioning
 
-This project is positioned as a **desktop engineering portfolio project** that highlights practical software-hardware integration, ECU workflow understanding, and technical documentation readiness.
+This project is positioned as a **desktop engineering project** that highlights practical software-hardware integration, ECU workflow understanding, and technical documentation readiness.
 
