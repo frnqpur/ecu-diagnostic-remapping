@@ -34,7 +34,7 @@ This repository presents the project as a portfolio-ready desktop engineering ap
 - FTDI dependency through `FTD2XX_NET.dll`.
 - USB-to-K-Line hardware integration workflow.
 - Honda motorcycle ECU communication workflow.
-- Downloadable application package for recruiter or technical review.
+- Downloadable application package for review.
 - Screenshot documentation for UI, hardware, and architecture overview.
 - Video walkthrough for visual project presentation.
 - Safety disclaimer and local setup documentation included.
@@ -213,7 +213,7 @@ The downloadable package is available in:
 download-package/ecu-diagnostic-remapping.zip
 ```
 
-It contains the application files, required DLL, selected screenshots, documentation, and safety notes for portfolio/recruiter review.
+It contains the application files, required DLL, selected screenshots, documentation, and safety notes for review.
 
 ---
 
@@ -222,11 +222,7 @@ It contains the application files, required DLL, selected screenshots, documenta
 Supporting documentation is available in the `docs/` folder, including:
 
 - User guide PDF.
-- Case study documents.
-- Local setup notes.
-- Recruiter view documentation.
-- Security cleanup notes.
-
+- View documentation.
 ---
 
 ## Safety Disclaimer
@@ -258,7 +254,7 @@ This project demonstrates:
 - Hardware-software integration.
 - FTDI dependency handling.
 - ECU diagnostic and remapping workflow understanding.
-- Technical documentation and recruiter-ready portfolio packaging.
+- Technical documentation and ready packaging.
 
 ---
 
