@@ -62,12 +62,9 @@ This repository presents the project as a portfolio-ready desktop engineering ap
 ecu-diagnostic-remapping/
 ├── README.md
 ├── DISCLAIMER.md
-├── index.html
 ├── app/
 │   ├── SCANNER BY FRENGKI.exe
 │   ├── FLASHER BY FRENGKI.exe
-│   └── FTD2XX_NET.dll
-├── required-dll/
 │   └── FTD2XX_NET.dll
 ├── screenshots/
 │   ├── architecture-diagram.png
@@ -275,7 +272,7 @@ This project demonstrates:
 
 ---
 
-## Portfolio Positioning
+## Positioning
 
 This project is positioned as a **desktop engineering portfolio project** that highlights practical software-hardware integration, ECU workflow understanding, and technical documentation readiness.
 
