@@ -150,27 +150,9 @@ If GitHub opens the video as a downloadable file instead of playing it directly,
 
 ---
 
-## System Architecture
+## System Architecture / Arsitektur Sistem
 
-The application workflow is built around a Windows desktop application connected to ECU-related hardware through FTDI and USB-to-K-Line communication.
-
-```text
-Windows PC / Laptop
-        |
-C# / .NET WinForms Desktop Application
-        |
-+----------------------+----------------------+
-| Diagnostic Scanner   | Remapping Flasher    |
-+----------------------+----------------------+
-        |
-FTD2XX_NET.dll / FTDI Driver
-        |
-FTDI USB Interface
-        |
-USB-to-K-Line Module
-        |
-Honda Motorcycle ECU
-```
+![System Architecture](https://github.com/frnqpur/ecu-diagnostic-remapping/blob/main/screenshots/architecture-diagram.png)
 
 ---
 
