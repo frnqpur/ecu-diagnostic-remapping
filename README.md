@@ -1,6 +1,6 @@
 # ECU Diagnostic & Remapping Desktop Application
 
-![Project Type](https://img.shields.io/badge/Project-Desktop%20Engineering-blue)
+![Type](https://img.shields.io/badge/Desktop%20Engineering-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational)
 ![Tech](https://img.shields.io/badge/Tech-C%23%20%2F%20.NET%20WinForms-success)
 ![Hardware](https://img.shields.io/badge/Hardware-FTDI%20%2F%20USB--to--K--Line-orange)
