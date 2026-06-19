@@ -5,7 +5,7 @@
 ![Tech](https://img.shields.io/badge/Tech-C%23%20%2F%20.NET%20WinForms-success)
 ![Hardware](https://img.shields.io/badge/Hardware-FTDI%20%2F%20USB--to--K--Line-orange)
 
-## Live Portfolio
+## Live
 
 **Website:** [https://ecu-diagnostic-remapping.frengkipurba.com](https://ecu-diagnostic-remapping.frengkipurba.com)
 
@@ -23,7 +23,7 @@ The project includes two main desktop tools:
 2. **Remapping Flasher**  
    Used for BIN file selection, file validation workflow, and controlled ECU remapping/flashing process.
 
-This repository presents the project as a portfolio-ready desktop engineering application with screenshots, video walkthrough, documentation, downloadable application package, and safety disclaimer.
+This repository presents the project as a ready desktop engineering application with screenshots, video walkthrough, documentation, downloadable application package, and safety disclaimer.
 
 ---
 
@@ -52,7 +52,7 @@ This repository presents the project as a portfolio-ready desktop engineering ap
 | Hardware Interface | FTDI USB Interface |
 | ECU Interface | USB-to-K-Line Module |
 | Target Workflow | Honda Motorcycle ECU Diagnostic & Remapping |
-| Portfolio Hosting | Static HTML website |
+| Hosting | Static HTML website |
 
 ---
 
@@ -141,7 +141,7 @@ video/
 └── ecu-diagnostic-remapping-walkthrough.mp4
 ```
 
-If GitHub opens the video as a downloadable file instead of playing it directly, please use the live portfolio website:
+If GitHub opens the video as a downloadable file instead of playing it directly, please use the live website:
 
 [https://ecu-diagnostic-remapping.frengkipurba.com](https://ecu-diagnostic-remapping.frengkipurba.com)
 
@@ -227,7 +227,7 @@ Supporting documentation is available in the `docs/` folder, including:
 
 ## Safety Disclaimer
 
-This project is shared for portfolio and technical review purposes.
+This project is shared for technical review purposes.
 
 ECU diagnostic and remapping activities involve technical risk. Incorrect wiring, unstable power supply, incompatible ECU files, or improper flashing procedures may cause ECU malfunction, vehicle issues, or hardware damage.
 
@@ -264,7 +264,7 @@ This project demonstrates:
 - Full functionality requires ECU/FTDI/USB-to-K-Line hardware.
 - No complete standalone simulation mode is provided.
 - Remapping/flashing workflow should only be performed with correct technical knowledge and safety preparation.
-- Public repository is intended for portfolio presentation, not as a universal ECU flashing solution.
+- Public repository is intended for presentation, not as a universal ECU flashing solution.
 
 ---
 
