@@ -104,10 +104,6 @@ app/
 
 ## Screenshots
 
-### System Architecture / Arsitektur Sistem
-
-![System Architecture](screenshots/architecture-diagram.png)
-
 ### Module Framework / Framework Modul
 
 ![Module Framework](screenshots/module-framework.png)
