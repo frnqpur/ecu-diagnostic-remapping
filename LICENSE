@@ -1,0 +1,30 @@
+Proprietary Portfolio License
+
+Copyright (c) 2026 Frengki Josua Purba
+
+All rights reserved.
+
+This repository and its contents are provided for portfolio, recruiter review, and technical demonstration purposes only.
+
+Permission is granted to view the documentation, screenshots, video, and publicly available portfolio materials in this repository.
+
+The executable files, DLL files, documentation, screenshots, videos, and other project assets may not be copied, modified, redistributed, republished, sublicensed, sold, reverse engineered, decompiled, or used for commercial purposes without prior written permission from the copyright owner.
+
+This project is not released as open-source software.
+
+The following materials are not licensed for public reuse:
+- Source code
+- ECU BIN files
+- XDF/map definition files
+- ECU backup files
+- Checksum logic
+- Seed/key logic
+- Internal flashing implementation
+- Calibration data
+- Any confidential or safety-sensitive project material
+
+ECU diagnostic and remapping activities involve technical risk. Incorrect use of ECU-related tools, hardware, wiring, power supply, or calibration files may cause ECU malfunction, vehicle issues, data corruption, or hardware damage.
+
+This project is provided "as is", without warranty of any kind, express or implied. The author is not responsible for any damage, misuse, loss, malfunction, or improper use resulting from this project or related materials.
+
+For permission requests, please contact the project owner.
